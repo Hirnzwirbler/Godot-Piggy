@@ -17,6 +17,7 @@ __meta__ = {
 }
 
 [node name="Pig" type="Area2D" parent="."]
+position = Vector2( 51.0576, 55.7296 )
 __meta__ = {
 "_edit_group_": true
 }
